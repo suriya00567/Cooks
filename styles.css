@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E0B7B7;
+    color: #5C3A3A;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('cookbook.jpg');
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 2em;
+}
+
+.introduction {
+    padding: 20px;
+    text-align: center;
+    background-color: #D19898;
+}
+
+.recipes {
+    padding: 20px;
+    background-color: #F3B6B6;
+}
+
+.recipe {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #C17D7D;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+
+.recipe img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #A56C6C;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #FFD7D7;
+}
+
+h2 {
+    color: #5C3A3A;
+}
+
+h3 {
+    color: #FFD7D7;
+}
+
